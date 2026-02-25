@@ -66,9 +66,6 @@
         <mj-text padding-top="10px">
           Spring is here! Make sure your lawn mower is equipped with premium tires for peak performance. Ara's Llantas offers top-quality tires to get your equipment running smoothly all season long.
         </mj-text>
-        <mj-button href="https://arasllantas.com?utm_source=newsletter&utm_medium=email&utm_campaign=spring_sale" padding-top="14px">
-          Shop Spring Tire Sale
-        </mj-button>
       </mj-column>
     </mj-section>
 
@@ -81,6 +78,14 @@
           border-radius="6px"
           fluid-on-mobile="true"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="12px 20px 0">
+      <mj-column>
+        <mj-button href="https://arasllantas.com?utm_source=newsletter&utm_medium=email&utm_campaign=spring_sale" padding-top="14px">
+          Shop Spring Tire Sale
+        </mj-button>
       </mj-column>
     </mj-section>
 
