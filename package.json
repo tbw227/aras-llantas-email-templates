@@ -1,0 +1,26 @@
+{
+  "name": "aras-llantas-email-templates",
+  "version": "1.0.0",
+  "description": "Email templates for Ara's Llantas promotional campaigns",
+  "scripts": {
+    "build": "mjml aras-llantas-spring-promo.mjml -o aras-llantas-spring-promo.html",
+    "watch": "mjml --watch aras-llantas-spring-promo.mjml --output aras-llantas-spring-promo.html",
+    "dev": "mjml --watch aras-llantas-spring-promo.mjml --output aras-llantas-spring-promo.html",
+    "test": "npx email-spell-checker aras-llantas-spring-promo.html"
+  },
+  "keywords": [
+    "email",
+    "mjml",
+    "newsletter",
+    "promotional"
+  ],
+  "author": "Ara's Llantas",
+  "license": "MIT",
+  "devDependencies": {
+    "mjml": "^4.14.1",
+    "email-spell-checker": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

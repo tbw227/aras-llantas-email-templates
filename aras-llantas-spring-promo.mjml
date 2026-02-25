@@ -1,0 +1,159 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>Ara's Llantas | Lawn Mower Season Tire Promotion</mj-title>
+    <mj-preview>Get your lawn mower ready! Premium tires for the season at Ara's Llantas – save today.</mj-preview>
+    <mj-breakpoint width="600px" />
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-text color="#000000" font-size="16px" line-height="160%" />
+      <mj-image padding="0px" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-button
+        background-color="#FF6600"
+        color="#ffffff"
+        border-radius="4px"
+        font-size="15px"
+        font-weight="700"
+        inner-padding="12px 20px"
+      />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .eyebrow {
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 12px;
+        font-weight: bold;
+      }
+      .card {
+        border: 1px solid #ededed;
+        border-radius: 8px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f7f7f7" width="600px">
+    <mj-section background-color="#efefef" padding="8px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="12px" color="#666666">
+          Can't see this email? <a href="{{ webview_url }}" style="color:#FF6600;" rel="noopener noreferrer">View in browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000000" padding="18px 20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="22px" font-weight="700">
+          Ara's Llantas
+        </mj-text>
+        <mj-text align="center" color="#d9d9d9" font-size="13px" css-class="eyebrow">
+          Lawn Mower Season Special
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="28px 20px 12px">
+      <mj-column>
+        <mj-text font-size="28px" font-weight="700" line-height="130%">
+          Get Ready for Lawn Mower Season
+        </mj-text>
+        <mj-text padding-top="10px">
+          Spring is here! Make sure your lawn mower is equipped with premium tires for peak performance. Ara's Llantas offers top-quality tires to get your equipment running smoothly all season long.
+        </mj-text>
+        <mj-button href="https://arasllantas.com?utm_source=newsletter&utm_medium=email&utm_campaign=spring_sale" padding-top="14px">
+          Shop Spring Tire Sale
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="12px 20px 4px">
+      <mj-column css-class="card" background-color="#fafafa" padding="18px">
+        <mj-text css-class="eyebrow" color="#FF6600" padding-bottom="6px">
+          Premium Selection
+        </mj-text>
+        <mj-text font-size="22px" font-weight="700" line-height="130%">
+          Why Quality Tires Matter
+        </mj-text>
+        <mj-text padding-top="8px">
+          Quality tires improve traction, reduce fuel consumption, and extend equipment life. Our expert team at Ara's Llantas can recommend the perfect tires for your lawn mower and garden equipment needs.
+        </mj-text>
+        <mj-button href="https://arasllantas.com/lawn-mower-tires?utm_source=newsletter&utm_medium=email&utm_campaign=tire_guide">
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="8px 20px 4px">
+      <mj-column width="50%" padding-right="8px">
+        <mj-image
+          src="https://images.unsplash.com/photo-1515169067868-5387ec356754?auto=format&fit=crop&w=800&q=80"
+          alt="Alt moms talking and laughing during a local meetup"
+          border-radius="6px"
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column width="50%" padding-left="8px">
+        <mj-image
+          src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80"
+          alt="Parent hugging child at a community event"
+          border-radius="6px"
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="10px 20px 0">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#ececec" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="14px 20px 6px">
+      <mj-column>
+        <mj-text css-class="eyebrow" color="#555555">
+          Limited Time Offer
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 20px 6px">
+      <mj-column css-class="card" background-color="#ffffff" padding="16px">
+        <mj-text font-size="18px" font-weight="700">
+          Spring Tire Refresh – 20% Off Select Brands
+        </mj-text>
+        <mj-text padding-top="4px">
+          <strong>Valid through March 31, 2026</strong><br />
+          In-store and online purchases
+        </mj-text>
+        <mj-text padding-top="4px">
+          Stock up on durable, reliable tires before peak mowing season. Free installation available on orders over $100.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="6px 20px 16px">
+      <mj-column>
+        <mj-button href="https://arasllantas.com?utm_source=newsletter&utm_medium=email&utm_campaign=spring_tire_sale">
+          Shop Lawn Mower Tires Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#efefef" padding="20px">
+      <mj-column>
+        <mj-text align="center" font-size="13px" color="#555555">
+          You are receiving this email because you subscribed to Ara's Llantas promotions.
+        </mj-text>
+        <mj-text align="center" font-size="12px" color="#777777">
+          Ara's Llantas<br />
+          {{ business_address_line_1 }}<br />
+          {{ business_city }}, {{ business_state }} {{ business_zip }}
+        </mj-text>
+        <mj-text align="center" font-size="12px">
+          <a href="https://arasllantas.com?utm_source=newsletter&utm_medium=email&utm_campaign=footer" style="color:#FF6600;" rel="noopener noreferrer">Shop Now</a> |
+          <a href="{{ preferences_url }}" style="color:#FF6600;" rel="noopener noreferrer">Manage Preferences</a> |
+          <a href="{{ unsubscribe_url }}" style="color:#FF6600;" rel="noopener noreferrer">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

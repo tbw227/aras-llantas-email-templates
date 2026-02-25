@@ -1,0 +1,18 @@
+{
+  "webview_url": "https://arasllantas.com/email/spring-sale-2026",
+  "preferences_url": "https://arasllantas.com/preferences/user123",
+  "unsubscribe_url": "https://arasllantas.com/unsubscribe/user123",
+  "business_address_line_1": "4521 E Van Buren Street",
+  "business_city": "Phoenix",
+  "business_state": "AZ",
+  "business_zip": "85008",
+  "business_phone": "(602) 555-TIRE",
+  "business_email": "sales@arasllantas.com",
+  "campaign_name": "spring-tire-sale-2026",
+  "promo_code": "SPRINGTIRE20",
+  "discount_percent": 20,
+  "offer_end_date": "March 31, 2026",
+  "utm_source": "newsletter",
+  "utm_medium": "email",
+  "utm_campaign": "spring-tire-sale"
+}

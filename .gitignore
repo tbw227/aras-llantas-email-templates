@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+*.html
+!README.html
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS
+*.log
+.cursor/
+
+# Testing
+coverage/
+*.tmp
+
+# Compiled files
+dist/
+build/
