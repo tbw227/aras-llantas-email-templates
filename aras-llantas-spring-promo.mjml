@@ -77,9 +77,27 @@
         <mj-image
           src="./images/dee3b44a-c5c4-491e-b342-0dab93b07515.jpeg"
           alt="Premium lawn mower tires promotion"
+          width="300px"
           border-radius="6px"
           fluid-on-mobile="true"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="12px 20px 4px">
+      <mj-column css-class="card" background-color="#fafafa" padding="18px">
+        <mj-text css-class="eyebrow" color="#FF6600" padding-bottom="6px">
+          Premium Selection
+        </mj-text>
+        <mj-text font-size="22px" font-weight="700" line-height="130%">
+          Why Quality Tires Matter
+        </mj-text>
+        <mj-text padding-top="8px">
+          Quality tires improve traction, reduce fuel consumption, and extend equipment life. Our expert team at Ara's Llantas can recommend the perfect tires for your lawn mower and garden equipment needs.
+        </mj-text>
+        <mj-button href="https://arasllantas.com/lawn-mower-tires?utm_source=newsletter&utm_medium=email&utm_campaign=tire_guide">
+          Learn More
+        </mj-button>
       </mj-column>
     </mj-section>
 
