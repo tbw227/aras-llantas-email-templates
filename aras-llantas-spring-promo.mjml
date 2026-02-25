@@ -42,6 +42,13 @@
 
     <mj-section background-color="#000000" padding="18px 20px">
       <mj-column>
+        <mj-image
+          src="./images/ARAS Final.pdf.png"
+          alt="Ara's Llantas Logo"
+          width="150px"
+          padding="0 0 12px 0"
+          align="center"
+        />
         <mj-text align="center" color="#ffffff" font-size="22px" font-weight="700">
           Ara's Llantas
         </mj-text>
